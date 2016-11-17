@@ -10,7 +10,7 @@ By leveraging these styles along with a few logical improvements, we can get a g
 
 ## Body Margin
 
-How many sites do you know that hove absolutely no change in background?
+How many sites do you know that have absolutely no change in background?
 I'm even including the navbar!
 
 When changing backgrounds, 99.9999999999% of the time you will want the background (I'm including horizontal box-shadows and borders in this too) to span from sea to shining sea!
