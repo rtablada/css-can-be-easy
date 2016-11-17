@@ -156,7 +156,7 @@ So to fix this we can use the `calc` function to subtract the left and right mar
 }
 ```
 
-![Calc](img/grid/calc.png)
+![Calc](img/grid/calc-margin.png)
 
 The next step is optional, but in my opinion it makes a really cool grid.
 What to do with the `grid__item` that is all by itself.
